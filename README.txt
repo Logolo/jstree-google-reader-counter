@@ -1,6 +1,6 @@
 jsTree Google Reader Counter Plugin
 
-In order to use this plugin you need a up and running jsTree (http://www.jstree.com)
+In order to use this plugin you need an up and running jsTree (http://www.jstree.com)
 in your webapp.
 
 Works and behaves like Google Reader subscriptions tree.
